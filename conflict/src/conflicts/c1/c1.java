@@ -1,8 +1,8 @@
 package conflicts.c1;
 
-public class c1 {
+public abstract class c1 {
     int a = 1;
-    String test = "test";
-    String firstName = "Marcin";
-    String lastName = "Sobolewski";
+    String test = "testowańsko";
+    String firstName = "Uga";
+    String lastName = "Buga";
 }
