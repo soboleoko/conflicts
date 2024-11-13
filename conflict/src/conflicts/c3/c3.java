@@ -1,8 +1,8 @@
 package conflicts.c3;
 
-public class c3 {
-    int a = 3;
+public interface c3 {
+    int a = 321;
     String test = "test";
     String firstName = "Marcin";
-    String lastName = "Sobolewski";
+    String lastName = "Różański";
 }
