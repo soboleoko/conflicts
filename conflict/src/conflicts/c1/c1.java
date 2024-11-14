@@ -1,7 +1,7 @@
 package conflicts.c1;
 
-public abstract class c1 {
-    int a = 1;
+public interface  c1 {
+    int a = 3;
     String test = "testowańsko";
     String firstName = "Uga";
     String lastName = "Buga";
